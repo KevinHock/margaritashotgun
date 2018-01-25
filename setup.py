@@ -2,6 +2,8 @@ from distutils.command.build import build
 from setuptools import setup
 from setuptools.command.install import install as _install
 
+b1c1d8736f20db3fb6c1c66bb1455ed43909f0d8
+
 
 class install(_install):
     def run(self):
